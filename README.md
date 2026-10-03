@@ -1,6 +1,6 @@
 ## Usage
 
-For example, to fix failures in workflow "Build and test" triggered by Renovate pull requests:
+For example, to fix failures in a workflow named "Build and test" when triggered by Renovate pull requests:
 
 ```yml
 name: "Fix breaking changes in Renovate PRs"
